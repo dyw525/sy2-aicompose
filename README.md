@@ -1,6 +1,7 @@
 # LiteRT AI Demo
 
 一个面向 AI 应用的 Android Compose 布局示例项目。
+![tu](https://github.com/dyw525/sy2-aicompose/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-05-18%20033259.png?raw=true)
 
 ## 功能特性
 
